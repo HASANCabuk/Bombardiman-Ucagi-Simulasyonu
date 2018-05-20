@@ -1,0 +1,46 @@
+C:\Users\HP\Desktop\visuol stdio\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.exe.config
+C:\Users\HP\Desktop\visuol stdio\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.exe
+C:\Users\HP\Desktop\visuol stdio\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.pdb
+C:\Users\HP\Desktop\visuol stdio\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\visuol stdio\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman_Uçağı_Simulasyonu.Form1.resources
+C:\Users\HP\Desktop\visuol stdio\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman_Uçağı_Simulasyonu.Properties.Resources.resources
+C:\Users\HP\Desktop\visuol stdio\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\visuol stdio\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.exe
+C:\Users\HP\Desktop\visuol stdio\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.pdb
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.exe.config
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.exe
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.pdb
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.exe
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.pdb
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.csprojResolveAssemblyReference.cache
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman_Uçağı_Simulasyonu.Form1.resources
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman_Uçağı_Simulasyonu.Properties.Resources.resources
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.csproj.GenerateResource.Cache
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.exe.config
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.exe
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.pdb
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.exe
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.pdb
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.csprojResolveAssemblyReference.cache
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman_Uçağı_Simulasyonu.Form1.resources
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman_Uçağı_Simulasyonu.Properties.Resources.resources
+C:\Users\seto\Desktop\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.csproj.GenerateResource.Cache
+D:\dosyalar\programlama\c#\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.exe.config
+D:\dosyalar\programlama\c#\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.exe
+D:\dosyalar\programlama\c#\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.pdb
+D:\dosyalar\programlama\c#\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.exe
+D:\dosyalar\programlama\c#\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.pdb
+D:\dosyalar\programlama\c#\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.csprojResolveAssemblyReference.cache
+D:\dosyalar\programlama\c#\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman_Uçağı_Simulasyonu.Form1.resources
+D:\dosyalar\programlama\c#\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman_Uçağı_Simulasyonu.Properties.Resources.resources
+D:\dosyalar\programlama\c#\Bombardıman Uçağı Simulasyonu(v3)\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.csproj.GenerateResource.Cache
+D:\GitHupADD\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.exe.config
+D:\GitHupADD\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.exe
+D:\GitHupADD\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.pdb
+D:\GitHupADD\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.csprojAssemblyReference.cache
+D:\GitHupADD\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman_Uçağı_Simulasyonu.Form1.resources
+D:\GitHupADD\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman_Uçağı_Simulasyonu.Properties.Resources.resources
+D:\GitHupADD\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.csproj.GenerateResource.cache
+D:\GitHupADD\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.csproj.CoreCompileInputs.cache
+D:\GitHupADD\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.exe
+D:\GitHupADD\Bombardıman Uçağı Simulasyonu\Bombardıman Uçağı Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.pdb

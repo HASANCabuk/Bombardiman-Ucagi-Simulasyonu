@@ -1,0 +1,10 @@
+D:\GitHupADD\Bombardiman Ucagi Simulasyonu\Bombardiman Ucagi Simulasyonu\obj\Debug\Bombardiman Ucagi Simulasyonu.csprojAssemblyReference.cache
+D:\GitHupADD\Bombardiman Ucagi Simulasyonu\Bombardiman Ucagi Simulasyonu\obj\Debug\BombardimanUcagiSimulasyonu.Form1.resources
+D:\GitHupADD\Bombardiman Ucagi Simulasyonu\Bombardiman Ucagi Simulasyonu\obj\Debug\Bombardıman_Uçağı_Simulasyonu.Properties.Resources.resources
+D:\GitHupADD\Bombardiman Ucagi Simulasyonu\Bombardiman Ucagi Simulasyonu\obj\Debug\Bombardiman Ucagi Simulasyonu.csproj.GenerateResource.cache
+D:\GitHupADD\Bombardiman Ucagi Simulasyonu\Bombardiman Ucagi Simulasyonu\obj\Debug\Bombardiman Ucagi Simulasyonu.csproj.CoreCompileInputs.cache
+D:\GitHupADD\Bombardiman Ucagi Simulasyonu\Bombardiman Ucagi Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.exe
+D:\GitHupADD\Bombardiman Ucagi Simulasyonu\Bombardiman Ucagi Simulasyonu\obj\Debug\Bombardıman Uçağı Simulasyonu.pdb
+D:\GitHupADD\Bombardiman Ucagi Simulasyonu\Bombardiman Ucagi Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.exe.config
+D:\GitHupADD\Bombardiman Ucagi Simulasyonu\Bombardiman Ucagi Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.exe
+D:\GitHupADD\Bombardiman Ucagi Simulasyonu\Bombardiman Ucagi Simulasyonu\bin\Debug\Bombardıman Uçağı Simulasyonu.pdb
